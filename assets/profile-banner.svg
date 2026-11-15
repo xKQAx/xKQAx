@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#111A35"/>
+      <stop offset="1" stop-color="#17112D"/>
+    </linearGradient>
+    <linearGradient id="orb" x1="830" y1="35" x2="1100" y2="275" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#52D6FF"/>
+      <stop offset="0.5" stop-color="#6E7BFF"/>
+      <stop offset="1" stop-color="#C061FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(0 180 -300 0 1000 145)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#746BFF" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#746BFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#A8B6FF" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#glow)"/>
+  <path d="M0 244C184 200 310 292 493 250s276-92 436-44 175 42 271 4" stroke="#8293FF" stroke-opacity=".22" stroke-width="1.5"/>
+  <path d="M0 264C179 220 319 308 498 268s275-92 432-47 176 45 270 9" stroke="#63D9FF" stroke-opacity=".14" stroke-width="1.5"/>
+  <circle cx="970" cy="148" r="100" fill="url(#orb)" fill-opacity=".12"/>
+  <circle cx="970" cy="148" r="75" stroke="url(#orb)" stroke-opacity=".58"/>
+  <circle cx="970" cy="148" r="52" stroke="url(#orb)" stroke-opacity=".4"/>
+  <circle cx="970" cy="148" r="27" fill="url(#orb)" fill-opacity=".82"/>
+  <circle cx="970" cy="148" r="7" fill="#E5F9FF"/>
+  <circle cx="883" cy="93" r="4" fill="#68DFFF"/>
+  <circle cx="1064" cy="206" r="5" fill="#C77AFF"/>
+  <circle cx="1034" cy="76" r="3" fill="#A4ACFF"/>
+  <path d="M895 148h-48m246 0h-48M970 48V32m0 232v-16" stroke="#A9B7FF" stroke-opacity=".32" stroke-linecap="round"/>
+  <rect x="60" y="54" width="44" height="4" rx="2" fill="#54D9FF"/>
+  <rect x="112" y="54" width="20" height="4" rx="2" fill="#8D7BFF" fill-opacity=".8"/>
+</svg>
