@@ -1,26 +1,25 @@
-<!-- Banner and greeting -->
-<h1 align="center">¡Hola! Soy Santiago Cacua 👋</h1>
-<h3 align="center">Ingeniero de Software · Colombia 🇨🇴</h3>
+<h1 align="center">Hi, I'm Santiago Cacua 👋</h1>
+<h3 align="center">Software Engineer · Colombia 🇨🇴</h3>
 
 <p align="center">
-  Construyo soluciones digitales con foco en desarrollo web, aplicaciones y aprendizaje continuo.
+  I build useful digital products across web, mobile, and data, and keep learning by making things.
 </p>
 
 <p align="center">
-  <a href="https://xkqax.github.io/Portafolio/"><img src="https://img.shields.io/badge/Portafolio-Visitar-1f6feb?style=for-the-badge&logo=github" alt="Portafolio"></a>
-  <a href="https://github.com/xKQAx"><img src="https://img.shields.io/badge/GitHub-xKQAx-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://xkqax.github.io/Portafolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge&logo=github" alt="Visit my portfolio"></a>
+  <a href="https://github.com/xKQAx"><img src="https://img.shields.io/badge/GitHub-xKQAx-181717?style=for-the-badge&logo=github" alt="Visit my GitHub profile"></a>
 </p>
 
 ---
 
-### Sobre mí
+### About me
 
-- 💻 Me gusta convertir ideas en productos claros, útiles y bien diseñados.
-- 🌱 Estoy aprendiendo y construyendo en desarrollo web, móvil y ciencia de datos.
-- 🧪 También exploro proyectos de biología computacional y experiencias interactivas.
-- 📍 Colombia
+- 💻 I enjoy turning ideas into clear, useful, and well-designed products.
+- 🌱 Currently exploring web and mobile development, as well as data science.
+- 🧪 Interested in computational biology and interactive experiences.
+- 📍 Based in Colombia
 
-### Tecnologías
+### Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -33,22 +32,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
-### Proyectos destacados
+### Featured projects
 
-| Proyecto | Qué encontrarás |
+| Project | What it is |
 | --- | --- |
-| [Portafolio](https://github.com/xKQAx/Portafolio) | Mi sitio personal, hecho con React, TypeScript y Vite. |
-| [Digital Fest](https://github.com/xKQAx/digital-fest) | Experiencia WebAR para explorar figuras 3D desde el navegador. |
-| [Biología Computacional](https://github.com/xKQAx/biologiacomputacional) | Plataforma Django para servicios, investigación y contacto. |
-| [Trivia Colombia](https://github.com/xKQAx/trivia-colombia) | Juego educativo de preguntas sobre Colombia. |
-
-### GitHub
+| [Portfolio](https://github.com/xKQAx/Portafolio) | My personal website, built with React, TypeScript, and Vite. |
+| [Digital Fest](https://github.com/xKQAx/digital-fest) | A WebAR experience for exploring 3D figures in the browser. |
+| [Computational Biology](https://github.com/xKQAx/biologiacomputacional) | A Django platform for services, research, and contact. |
+| [Trivia Colombia](https://github.com/xKQAx/trivia-colombia) | An educational quiz game about Colombia. |
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xKQAx&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Estadísticas de GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKQAx&layout=compact&hide_border=true&theme=tokyonight" alt="Lenguajes más usados">
-</p>
-
-<p align="center">
-  <i>Siempre construyendo, aprendiendo y compartiendo.</i>
+  <i>Always building, learning, and sharing.</i>
 </p>
